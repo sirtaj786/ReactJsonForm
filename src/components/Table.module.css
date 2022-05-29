@@ -1,0 +1,22 @@
+.table {
+    /* border: 2px solid black; */
+    font-family: monospace;
+    margin-left: 300px;
+  }
+  th {
+    /* border: 2px solid gray; */
+    background-color: teal;
+    color: white;
+    padding: 10px 15px;
+    font-size: 25px;
+    border: none;
+  }
+  td {
+    border: none;
+    background-color:green;
+    font-family: monospace;
+    font-size: 20px;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+  }
